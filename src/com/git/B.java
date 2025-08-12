@@ -11,5 +11,9 @@ public class B {
 		
 		System.out.println("B---->m2");
 	}
+	 public void m3(){
+		
+		System.out.println("B---->m3");
+	}
 
 }
